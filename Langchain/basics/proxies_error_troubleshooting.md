@@ -7,6 +7,10 @@ Step1
 !pip install langchain_community
 !pip install wikipedia
 !pip install duckduckgo-search
+```
+
+```
+%%capture
 !pip install openai==1.55.3 httpx==0.27.2 --force-reinstall --quiet
 ```
 
@@ -45,3 +49,8 @@ response = llm.invoke(question)
 print(response.content)
 
 ```
+
+
+Useful Tip!
+
+In a Jupyter Notebook, the "%%capture" magic function allows you to capture the entire output of a cell, including print statements and any visual output, and store it in a variable, effectively suppressing the output from being displayed directly in the notebook while still allowing you to access it later if needed.

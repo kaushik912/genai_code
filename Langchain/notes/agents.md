@@ -1,9 +1,9 @@
-# AI Agent
+### AI Agent
 
 - Its a software component that can do a task on its own.
 - It does it using LLM intelligence and a set of Tools which we provide it.
 
-# High level Steps
+### High level Steps
 - When a user assigns a task to an agent, it'll use LLM as a "Reasoning" engine.
 - It'll take the task, reason and see which tools are available on hand to accomplish this particular task.
 - Then it'll take an action using the tool from the tool list which we provide.
@@ -37,13 +37,13 @@ sequenceDiagram
 ```
 Most of the LLMs support *Agents*.
 
-# Agent Types
+### Agent Types
 Search for `langchain agent types` in google.
 There are many agent-types listed in langchain.
 [agent-types](https://python.langchain.com/v0.1/docs/modules/agents/agent_types/)
 
 
-# Steps to create an Agent
+### Steps to create an Agent
 
 First step is to come up with a prompt which will drive our agent's behavior.
 

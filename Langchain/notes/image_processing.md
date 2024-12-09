@@ -61,7 +61,7 @@ KEY NOTES:
 - You can use any image of your choice.
 
 - We create a ChatPromptTemplate from messages but its slightly different.
-- It has a system message as "You are a helpful assistant that can describe images"
+- First, it has a system message as "You are a helpful assistant that can describe images"
 - Then the human message message has two sets of messages.
   - First message has
   ```

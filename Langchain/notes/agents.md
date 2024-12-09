@@ -146,13 +146,8 @@ To see this code in action, run
 
 `streamlit run agent_demo.py`
 
-### Non-Streamlit Version
- 
-```
-response = agent_executor.invoke({"input": "what is LangChain?"})
-print(response.content)
-```
-In case wikipedia or duckduckgo doesn't work due to firewall issue, run the code in google-colab for learning purposes.
+Unfortunately, the wikipedia or duckduckgo doesn't work due to corporate firewall issue. 
+So I had to run the code in google-colab for learning purposes. 
 
 
 

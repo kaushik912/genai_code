@@ -1,4 +1,4 @@
-Some useful 
+Purpose of this Repo 
 - python code
 - notes
 - notebooks 

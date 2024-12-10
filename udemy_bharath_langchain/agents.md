@@ -149,6 +149,7 @@ To see this code in action, run
 Unfortunately, the wikipedia or duckduckgo doesn't work due to corporate firewall issue. 
 So I had to run the code in google-colab for learning purposes. 
 
+Copy pasting a screenshot image worked as shown below!
 <img width="537" alt="image" src="https://github.com/user-attachments/assets/36fa2a03-ad68-4717-b1fe-e0ced9b42327">
 
 

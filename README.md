@@ -1,11 +1,11 @@
-Purpose of this Repo 
+## Purpose of this Repo 
 - python code
 - notes
 - notebooks 
 
 around **Generative AI**
 
-## Some super-useful shortcuts in Markdown in github
+### Some super-useful shortcuts in Markdown in github
 
 Below are some proven time-saver hacks to format faster in markdown!!
 

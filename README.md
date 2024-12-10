@@ -1,1 +1,25 @@
-Some useful python notebooks around Generative AI
+Some useful 
+- python code
+- notes
+- notebooks 
+
+around **Generative AI**
+
+## Some super-useful shortcuts in Markdown in github
+- Bold : Command + B
+- Italic : Command + I
+- Creating a Link : Command + K
+
+- Ordered List: Command+Shift+7
+1. Apples
+2. Oranges
+
+- Unordered list: Command+Shift+8
+  - Apples
+  - Oranges
+
+- Quote : Command+Shift+.
+>   This is a sample quote
+
+  
+See [keyboard-shortcuts](https://docs.github.com/en/get-started/accessibility/keyboard-shortcuts)

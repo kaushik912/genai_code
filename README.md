@@ -6,6 +6,9 @@ Some useful
 around **Generative AI**
 
 ## Some super-useful shortcuts in Markdown in github
+
+Below are some proven time-saver hacks to format faster in markdown!!
+
 - Bold : Command + B
 - Italic : Command + I
 - Creating a Link : Command + K

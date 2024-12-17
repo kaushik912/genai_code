@@ -13,6 +13,8 @@
 - It will once again see if it can use the same tool previously to get one more response or it has to use a completely differnet tool to get the task done.
 - Finally, it's happy with the response ,it'll use the response to generate the final response.
 
+Above steps can be visualized using a mermaid diagram, generated using ChatGPT!
+
 ```mermaid
 sequenceDiagram
     participant User

@@ -26,3 +26,6 @@ Below are some proven time-saver hacks to format faster in markdown!!
 
   
 See [keyboard-shortcuts](https://docs.github.com/en/get-started/accessibility/keyboard-shortcuts)
+
+## Mint Linux Paste doesn't work in terminal issue
+Use Ctrl + Shift + V, it worked!

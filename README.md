@@ -30,6 +30,6 @@ See [keyboard-shortcuts](https://docs.github.com/en/get-started/accessibility/ke
 Use Ctrl + Shift + V, it worked!
 
 ### Cycle windows for apps
-- To cycle between windows in vscode, simply press ctrl + w!!
+- To cycle between windows in vscode, simply press ctrl + w
 - To cycle between windows in chrome, simply press command + ~ 
 

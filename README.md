@@ -33,7 +33,7 @@ Use Ctrl + Shift + V, it worked!
 - To cycle between windows in vscode, simply press ctrl + w
 - To cycle between windows in chrome, simply press command + ~ 
 
-### How to enable word wrap in VSCode for notebook output?
+### How to enable word wrap in VSCode for notebook output in Mac?
 - Set Word Wrap:
-1.   Open the settings (Ctrl+,) and search for notebook.output.wordWrap.
+1.   Open the settings (Command+,) and search for notebook.output.wordWrap.
 2.   Set the value to true.
